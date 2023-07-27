@@ -3,7 +3,7 @@ const NFTS = []
 function mintNFT(Name, Nationality, Gender, accessories){
     const NFT = {
       name: Name,
-      country: Nationality,
+      Nationality: Nationality,
       Gender: Gender,
       accessories: accessories,
       
